@@ -6,7 +6,7 @@
 
 <!-- TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=DA70D6&center=true&vCenter=true&width=600&lines=💻+Estudiante+de+Sistemas;🚀+Aprendiendo+JavaScript;🔐+Interesada+en+Seguridad;✨+Construyendo+mi+camino+como+Dev" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=DA70D6&center=true&vCenter=true&width=600&lines=💻+Estudiante+de+Sistemas;🚀+Desarrolladora+en+formación;🔐+Interesada+en+Seguridad+Informática;✨+Construyendo+proyectos+reales" />
 </p>
 
 ---
