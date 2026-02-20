@@ -1,4 +1,57 @@
-## Hi there 👋
+<h1 align="center">Hola 👋 Soy Valentina Ubeda</h1>
+<h3 align="center">💻 Estudiante de Sistemas | 🚀 Futura Dev</h3>
+
+<p align="center">
+  🌱 Aprendiendo JavaScript <br>
+  🔐 Interesada en Seguridad y Desarrollo de apps <br>
+  📱 Próximamente: App móvil  orientado al deporte
+</p>
+
+---
+
+### 🧠 Sobre mí
+
+- 🎓 Estudio Sistemas  
+- 💡 Me gusta crear proyectos prácticos   
+- 🚀 Siempre buscando mejorar y aprender algo nuevo  
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=valenubeda13&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valenubeda13&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📌 Proyectos Destacados
+
+- 🔐 App de análisis y generación de contraseñas  
+- 📱 pagina web para un restaurante (tp universidad)  
+
+---
+
+### 📫 Contacto
+
+- 📧 valenubeda2006@gmail.com  
+- 💼 LinkedIn  Valentina Ubeda
+
+---
+
+<p align="center">
+  ⭐ Gracias por visitar mi perfil ⭐
+</p>
 
 <!--
 **valenubeda13/valenubeda13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
