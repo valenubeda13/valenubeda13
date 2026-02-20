@@ -8,6 +8,17 @@
 </p>
 
 ---
+<!-- HEADER ANIMADO -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=BA55D3&height=200&section=header&text=Valentina%20Ubeda&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<!-- TYPING EFFECT -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=DA70D6&center=true&vCenter=true&width=600&lines=💻+Estudiante+de+Sistemas;🚀+Aprendiendo+JavaScript;🔐+Interesada+en+Seguridad;✨+Construyendo+mi+camino+como+Dev" />
+</p>
+
+---
 
 ### 🧠 Sobre mí
 
