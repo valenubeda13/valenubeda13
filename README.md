@@ -1,13 +1,4 @@
-<h1 align="center">Hola 👋 Soy Valentina Ubeda</h1>
-<h3 align="center">💻 Estudiante de Sistemas | 🚀 Futura Dev</h3>
 
-<p align="center">
-  🌱 Aprendiendo JavaScript <br>
-  🔐 Interesada en Seguridad y Desarrollo de apps <br>
-  📱 Próximamente: App móvil  orientado al deporte
-</p>
-
----
 <!-- HEADER ANIMADO -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=BA55D3&height=200&section=header&text=Valentina%20Ubeda&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
@@ -16,6 +7,15 @@
 <!-- TYPING EFFECT -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=DA70D6&center=true&vCenter=true&width=600&lines=💻+Estudiante+de+Sistemas;🚀+Aprendiendo+JavaScript;🔐+Interesada+en+Seguridad;✨+Construyendo+mi+camino+como+Dev" />
+</p>
+
+---
+<h3 align="center">💻 Estudiante de Sistemas | 🚀 Futura Dev</h3>
+
+<p align="center">
+  🌱 Aprendiendo JavaScript <br>
+  🔐 Interesada en Seguridad y Desarrollo de apps <br>
+  📱 Próximamente: App móvil  orientado al deporte
 </p>
 
 ---
