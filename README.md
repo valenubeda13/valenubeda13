@@ -51,6 +51,7 @@
 ### 📌 Proyectos Destacados
 
 * 🎮 **Recreo Picado** – Juego RPG desarrollado en Java como proyecto universitario en POO.
+* 🚚 Sistema de gestión de rutas para embotelladora – Aplicación en Java para optimizar la planificación de rutas de reparto mediante algoritmos de optimización.
 * 🔐 **App de análisis y generación de contraseñas** – Aplicación en Python 
 * 🍽️ **Página web para un restaurante** – Sitio web desarrollado como trabajo práctico de la universidad.
  
