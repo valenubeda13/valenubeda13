@@ -13,9 +13,8 @@
 <h3 align="center">💻 Estudiante de Sistemas | 🚀 Futura Dev</h3>
 
 <p align="center">
-  🌱 Aprendiendo JavaScript <br>
   🔐 Interesada en Seguridad y Desarrollo de apps <br>
-  📱 Próximamente: App móvil  orientado al deporte
+  📱 Próximamente: App móvil  orientada al deporte
 </p>
 
 ---
@@ -31,7 +30,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,vscode,python,java" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,vscode,python,java,expo" />
 </p>
 
 ---
