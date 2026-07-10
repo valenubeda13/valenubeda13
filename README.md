@@ -37,9 +37,6 @@
 ### 📊 GitHub Stats
 
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valenubeda13&layout=compact&theme=radical&hide_border=true" />
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=valenubeda13&theme=radical&hide_border=true" />
 </p>
