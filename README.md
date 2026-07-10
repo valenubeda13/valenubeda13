@@ -45,8 +45,10 @@
 
 ### 📌 Proyectos Destacados
 
-- 🔐 App de análisis y generación de contraseñas  
-- 📱 pagina web para un restaurante (tp universidad)  
+* 🎮 **Recreo Picado** – Juego RPG desarrollado en Java como proyecto universitario en POO.
+* 🔐 **App de análisis y generación de contraseñas** – Aplicación en Python 
+* 🍽️ **Página web para un restaurante** – Sitio web desarrollado como trabajo práctico de la universidad.
+ 
 
 ---
 
